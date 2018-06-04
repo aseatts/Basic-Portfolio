@@ -1,5 +1,12 @@
 .html{
+<<<<<<< Updated upstream
 font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;}
+=======
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+background-image:url(../images/leaves-pattern.png);
+}
+
+>>>>>>> Stashed changes
 .content { width: 960px; }
 
 hr.style-one {
@@ -66,8 +73,12 @@ a:hover, a:visited, a:link, a:active
     /* Fixed Position box*/
     padding: 40px;
     font-size: normal;
+<<<<<<< Updated upstream
     background-image:url(../images/leaves-pattern.png);
     align-items: center;
+=======
+        align-items: center;
+>>>>>>> Stashed changes
     justify-content: center;
     vertical-align: middle;
 
@@ -97,4 +108,11 @@ a:hover, a:visited, a:link, a:active
         height:100px;
         width:500px;
 }
+<<<<<<< Updated upstream
     
+=======
+
+.profilepicturetable
+{table-layout:fixed;
+width: 960px}
+>>>>>>> Stashed changes
